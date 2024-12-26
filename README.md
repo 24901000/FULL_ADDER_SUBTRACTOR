@@ -1,6 +1,11 @@
 # FULL_ADDER_SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+NAME : B.BARKAVI
+
+REFERENCE NO : 24901000
+
+**EXPERIMENT NO : 4 FULL ADDER SUBTRACTOR**
+
 
 **AIM:**
 
