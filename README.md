@@ -83,15 +83,13 @@ Write the detailed procedure here
 
  
 
-![Screenshot (54)](https://github.com/user-attachments/assets/f27b92b6-aa1c-41ce-a80d-27793d044cae)
+![Screenshot (139)](https://github.com/user-attachments/assets/ced0cc9d-f2bd-4534-a85c-847075097df5)
 
 
 FULL SUBTRACTOR
 
-![Screenshot (56)](https://github.com/user-attachments/assets/0ea3af91-a560-4d86-aca1-fb9325439111)
 
-developed by:BARKAVI.B
-RegisterNumber:24901000
+![Screenshot (142)](https://github.com/user-attachments/assets/9b38b4d8-a120-4352-a446-518b999095b2)
 
 
 **RTL Schematic**
@@ -99,24 +97,26 @@ RegisterNumber:24901000
 FULL ADDER
 
 
-![Screenshot (51)](https://github.com/user-attachments/assets/3696e5cc-3d3c-4e93-81fc-9ce65dc994c6)
+![Screenshot (140)](https://github.com/user-attachments/assets/83edf60f-a15b-4842-9395-53ddbbf03c0b)
 
 
 FULL SUBTRACTOR
 
 
-![Screenshot (55)](https://github.com/user-attachments/assets/c8835ca4-7b5f-4e90-9a9f-8a9134422d6c)
+![Screenshot (143)](https://github.com/user-attachments/assets/a24fd3a9-2bcf-4f54-9d71-5cc9062b1a7b)
+
 
 **Output Timing Waveform**
 
 FULL ADDER
 
-![Screenshot (53)](https://github.com/user-attachments/assets/69913238-0a4c-491b-bc04-2dea4d719e64)
+
+![Screenshot (141)](https://github.com/user-attachments/assets/29a72306-134b-4139-ad13-fb2205b6ae21)
 
 FULL SUBTRACTOR
 
 
-![Screenshot (57)](https://github.com/user-attachments/assets/18e00a65-ef85-4fda-9810-8b7c1e3e6417)
+![Screenshot (144)](https://github.com/user-attachments/assets/da23ece0-fb9a-45fa-bb04-179577049804)
 
 
 **Result:**
